@@ -7,7 +7,7 @@ import Gallery from "./pages/Gallery";
 import Contact from "./pages/Contact";
 import Error from "./pages/Error";
 import Navbar from "./components/Navbar";
-import { Route, Switch } from "react-router-dom";
+import { Route, Router } from "react-router-dom";
 
 // const url = (address) => {
 //   window.location.href = address;
