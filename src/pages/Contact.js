@@ -22,7 +22,7 @@ const services = [
   {
     icon: <IoIosMail />,
     title: "Mail Us At",
-    info: "example@email.com",
+    info: "nebajoo2015@gmail.com",
   },
   {
     icon: <FaWhatsapp />,
@@ -54,7 +54,7 @@ const services = [
   {
     icon: <FaRegAddressBook />,
     title: "Address",
-    info: "Street 1010, somewhere",
+    info: "Street 1010, Addis Ababa",
   },
   {
     icon: <GoLocation />,

@@ -37,7 +37,7 @@ const ProductFilter = ({ products }) => {
           </select>
         </div>
         <div className="form-group">
-          <label htmlFor="price">product price ₹{price}</label>
+          <label htmlFor="price">product price ብር{price}</label>
           <input
             type="range"
             name="price"

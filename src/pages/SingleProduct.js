@@ -60,7 +60,7 @@ export class SingleProduct extends Component {
             </article>
             <article className="info">
               <h3>info</h3>
-              <h6>price : ₹{price}</h6>
+              <h6>price : ብር{price}</h6>
             </article>
           </div>
         </section>
